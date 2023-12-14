@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /etc/openvpn
+sudo openvpn TorGuard.Portugal.conf
+
